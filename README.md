@@ -10,7 +10,6 @@
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)](https://dart.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://opensource.org/licenses/MIT)
 
 </div>
 
@@ -30,7 +29,6 @@
 | 项目 | 说明 |
 | --- | --- |
 | [**QuotaDash**](https://github.com/YXX168/QuotaDash) | 模块化安卓多模型配额仪表盘，支持 CLIProxyAPI、OpenCode 等多个后端 |
-| [**CLIProxy-Dash**](https://github.com/YXX168/CLIProxy-Dash) | 注重隐私的 CLIProxyAPI 账号配额安卓仪表盘 |
 | [**opencodex-Dash**](https://github.com/YXX168/opencodex-Dash) | 单文件实时 LLM 请求仪表盘，打开即用 |
 
 ### 健身与自我管理
@@ -44,7 +42,6 @@
 
 | 项目 | 说明 |
 | --- | --- |
-| [**Amber-MD**](https://github.com/YXX168/Amber-MD) | 极简玻璃态 Markdown 阅读器，5 种霓虹主题，支持 WebDAV |
 | [**Knowledge-Nebula**](https://github.com/YXX168/Knowledge-Nebula) | 自托管知识库工作台：全文搜索、多格式预览、实时同步 |
 
 ### 其他
@@ -52,8 +49,9 @@
 | 项目 | 说明 |
 | --- | --- |
 | [**Visonic-Themes**](https://github.com/YXX168/Visonic-Themes) | 霓虹动画主题全家桶，13 款 Typora 主题 |
+| [**luci-theme-liquidglass**](https://github.com/YXX168/luci-theme-liquidglass) | 面向 OpenWrt / ImmortalWrt LuCI 的 Liquid Glass 主题 |
 | [**switch-manager-win7**](https://github.com/YXX168/switch-manager-win7) | 兼容 Windows 7 的华为 / H3C 交换机管理工具，支持只读模式 |
 
 ## 开源
 
-全部项目均以 **MIT** 协议开源。有想法或遇到问题，直接开 Issue 是最快的方式。
+各项目的开源协议以对应仓库的 `LICENSE` 文件为准：目前大部分项目采用 **MIT**，`luci-theme-liquidglass` 采用 **Apache-2.0**。有想法或遇到问题，可以到对应仓库开 Issue。
