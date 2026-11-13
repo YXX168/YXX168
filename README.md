@@ -37,7 +37,6 @@
 | 项目 | 说明 |
 | --- | --- |
 | [**BodyRecomp**](https://github.com/YXX168/BodyRecomp) | 青燃 · 本地优先 Android 训练记录与饮食日记：自由训练积木、参考模板、身体围度趋势与组间计时，无需注册 |
-| [**Pulsar**](https://github.com/YXX168/Pulsar) | 以动态星海呈现训练计划、健身记录与成长事项的 Flutter Android 应用 |
 
 ### 阅读与知识
 
